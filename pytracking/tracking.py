@@ -3,7 +3,7 @@ from collections import namedtuple
 from copy import deepcopy
 import json
 import time
-from urllib.parse import urljoin
+from urlparse import urljoin
 
 try:
     # Optional Import
